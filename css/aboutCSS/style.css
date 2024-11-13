@@ -101,6 +101,275 @@ img {
 
 /* =======================================YOUR WORK STARTS FROM HERE========================================= */
 
+/* =================== our design  start =================== */
+
+#ourDesign{
+  padding: 128px 0;
+  background-color: #FFFFFF;
+}
+.ourDesign__tag{
+  color: #282938;
+  font-size: 18px;
+  font-weight: 500; 
+  line-height: 32px;
+  margin-bottom: 8px;
+
+}
+.ourDesign__title{
+  max-width: 503px;
+  color: #282938;
+  font-size: 54px;
+  font-weight: 600; 
+  line-height: 74px;
+  margin-bottom: 31px;
+}
+.ourDesign__details{
+  max-width: 484px;
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px;
+}
+/* =================== our design end =================== */
+
+
+/* =================== who we are =================== */
+
+#whoWeAre{
+  margin-bottom: 128px ;
+  padding-top: 80px;
+  background-color: #F4F5F5;
+}
+.whoWeAreLeft{
+  margin-bottom: 80px;
+}
+.whoWeAreLeft__tag{
+  color: #282938;
+  font-size: 12px;
+  font-weight: 400; 
+  line-height: 28px;
+  margin-bottom: 4px;
+  padding-left: 59px;
+}
+.whoWeAreLeft__title{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600; 
+  line-height: 56px;
+  margin-bottom: 16px;
+}
+.whoWeAreLeft__details{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px;
+ 
+}
+
+.whoWeAreRight__title{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600; 
+  line-height: 56px;
+  margin-bottom: 16px;
+}
+.whoWeAreRight__details{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px;
+
+}
+.whoWeAreRight{
+
+}
+/* =================== who we are =================== */
+
+/* ============ we follow  start ============ */
+
+.weFollowTop__Title{
+  margin-bottom: 48px;
+  color: #282938;
+  font-size: 48px;
+  font-weight: 600; 
+  line-height: 64px;
+
+}
+.weFollow__circle{
+  font-size: 20px;
+  margin-right: 24px;
+}
+
+.weFollow__title{
+  margin-top: 28px;
+  color: #282938;
+  font-size: 24px;
+  font-weight: 500; 
+  line-height: 36px;
+}
+.weFollow__details{
+  margin-top: 8px;
+  max-width: 272px;
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px; 
+  opacity: .7;
+}
+
+/* ============ we follow  end ============ */
+
+
+/* ============ our mission  start ============ */
+#ourMission{
+  margin-top: 128px;
+  padding: 96px;
+  background-color: #EEF4FA;
+}
+.ourMission__tag{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 500; 
+  line-height: 28px;    
+}
+.ourMission__title{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600; 
+  line-height: 56px; 
+  margin: 16px 0;
+}
+.ourMission__details{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px; 
+  opacity: .7;
+}
+/* ============ our mission  end ============ */
+
+
+/* ============ our vision  start ============ */
+#ourVision{
+  background-color: #EEF4FA;
+}
+.ourVision__tag{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 500; 
+  line-height: 28px;    
+}
+.ourVision__title{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600; 
+  line-height: 56px; 
+  margin: 16px 0;
+}
+.ourVision__details{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px; 
+  opacity: .7;
+}
+/* ============ our vision  end ============ */
+
+
+/* ============ benefits of working  start ============ */
+#benefits{
+  background-color: #FFFFFF;
+  margin: 128px 0;
+}
+.benefitsTop__title{
+  max-width: 630px;
+  color: #282938;
+  font-size: 48px;
+  font-weight: 600; 
+  line-height: 64px;   
+}
+.benefitsMiddle{
+  background-color: #F4F6FC;
+  margin-top: 48px;
+  padding: 48px 32px 48px 48px;
+}
+.benefitsMiddle__title{
+  color: #282938;
+  font-size: 24px;
+  font-weight: 500; 
+  line-height: 36px;
+  margin: 26px 0 12px; 
+}
+.benefitsMiddle__details{
+  max-width: 324px;
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px;
+  opacity: .7;
+}
+.benefitsBottom__count{
+  color: #282938;
+  font-size: 38px;
+  font-weight: 600; 
+  line-height: 56px;
+}
+.benefitsBottom__tag{
+  color: #282938;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px;
+  opacity: .7;
+}
+.benefitsBottom{
+  margin-top: 48px;
+  
+}
+.benefitsBottom__logo{
+  width: 161px;
+  height: 32px;
+ 
+}
+#ourTeam{
+  background-color: #F4F6FC;
+  padding: 128px 0 48px 0;
+}
+.ourTeamBottom{
+  width: 296px;
+  height: 344px;
+  background-color: #FFFFFF;
+  padding: 48px 64px 0 64px;
+}
+
+.ourTeamTop__title{
+  color: #282938;
+  font-size: 48px;
+  font-weight: 600; 
+  line-height: 64px;
+  margin-bottom: 48px;
+
+}
+.ourTeamBottom__name{
+  color: #1D2130;
+  font-size: 24px;
+  font-weight: 500; 
+  line-height: 36px;
+  margin-top: 30px;
+  margin-bottom: 2px;
+  text-align: center;
+}
+.ourTeamBottom__designation{
+  color: #1D2130;
+  font-size: 16px;
+  font-weight: 400; 
+  line-height: 28px;
+  opacity: .7;
+  text-align: center;
+}
+/* ============ benefits of working  end ============ */
+
+
+
 /* =================================!!! DONT MODIFY THE #FOOTER SECTION!!!========================================= */
 /* ============footer section============== */
 #footer {
